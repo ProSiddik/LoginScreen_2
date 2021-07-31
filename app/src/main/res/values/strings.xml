@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginScreen_2</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="do_not_have_an_account_sign_up">Do not Have An Account? Sign Up</string>
+</resources>
